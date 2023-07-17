@@ -1,0 +1,15 @@
+{
+  "name": "file-picker",
+  "version": "1.0.0",
+  "description": "A simple typescript library to open file browser. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}

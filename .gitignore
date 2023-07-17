@@ -1,0 +1,17 @@
+# dependency directories
+node_modules/
+
+# TypeScript compiled directory
+dist/
+
+# logs
+*.log
+
+# Debug log from npm
+npm-debug.log*
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env
